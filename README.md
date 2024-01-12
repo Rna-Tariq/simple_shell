@@ -6,6 +6,7 @@ concepts behind the shell program include process, system call, bit manipulation
 Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh).
 This program was written entirely in C Language.
 
+
 Create an executable by running the following command:
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 
