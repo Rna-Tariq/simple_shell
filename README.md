@@ -10,4 +10,5 @@ Create an executable by running the following command:
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 
 Tasks: 
-    1- 0. Betty would be proud
+    0. Betty would be proud
+    1. Simple shell 0.1
