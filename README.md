@@ -12,3 +12,4 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 Tasks: 
     0. Betty would be proud
     1. Simple shell 0.1
+    2. Simple shell 0.2
